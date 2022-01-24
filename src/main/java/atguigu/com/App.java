@@ -18,5 +18,6 @@ public class App
         System.out.println("212121212121");
         System.out.println("11122222222222222222222222222");
         System.out.println("666666666666666666666");
+        System.out.println("666666666666666666666");
     }
 }
